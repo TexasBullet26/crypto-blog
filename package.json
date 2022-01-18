@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "crypto-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog about everything crypto",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Glenn Lanzer III <lanzertrey@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/TexasBullet26/crypto-blog/issues"
   },
   "dependencies": {
     "gatsby": "^4.5.3",
@@ -35,15 +35,17 @@
   "devDependencies": {
     "prettier": "^2.5.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/TexasBullet26/crypto-blog#readme",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "crypto",
+    "blog"
   ],
   "license": "0BSD",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/TexasBullet26/crypto-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
